@@ -7,9 +7,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Booz Allen Hamilton | Front End Engineering`,
+    author: `Max Kendall`,
+    description: `This website is used to share best practices across the Booz Allen workforce.`,
     social: [
       {
         name: `twitter`,
